@@ -1,0 +1,2 @@
+include ':app', 'Baselib', ':actionbarsher', ':FM220Library', ':lib'
+project(':actionbarsher').projectDir = new File('actionbarsherlock')
